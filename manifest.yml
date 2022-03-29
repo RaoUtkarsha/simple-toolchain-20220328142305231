@@ -1,4 +1,4 @@
 applications:
-- name: node-hello-world
+- name: node-Movie-Review-Database 
   memory: 128M
   buildpack: nodejs_buildpack
